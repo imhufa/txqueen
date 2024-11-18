@@ -45,28 +45,23 @@
 			</div>
 		</pre>
     <br>
-    <p>
+    <h3>
         to download entire repository with git via powershell, install git and clone the repository.
-    </p>
-    <br>
+    </h3>
     <p><b>install</b></p>
     <pre>
-        winget install --id Git.Git --source winget
+    winget install --id Git.Git --source winget
     </pre>
-    <br>
     <p><b>clone</b></p>
     <pre>
-        $ git clone https://github.com/imhufa/txqueen.git
+    git clone https://github.com/imhufa/txqueen.git
     </pre>
-    <br>
-    <p>
+    <h3>
         to download single files, invoke either restmethod or webrequest in powershell.
-    </p>
-    <br>
+    </h3>
     <pre>
-        $ Invoke-RestMethod -Uri https://raw.githubusercontent.com/imhufa/txqueen/main/readme.md
+    Invoke-RestMethod -Uri https://raw.githubusercontent.com/imhufa/txqueen/main/readme.md
     </pre>
-    <br>
 </body>
 </html>
 
