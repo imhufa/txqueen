@@ -13,9 +13,9 @@
         : intro modules :
 	</h2>
     <li>
-		- <a href="https://tryhackme.com/r/room/careersincyber?ref=blog.tryhackme.com">careers in cyber</a><br>
-		- <a href="https://tryhackme.com/room/linuxfundamentalspart1?ref=blog.tryhackme.com">linux fundamentals</a><br>
-		- <a href="https://tryhackme.com/room/ohsint?ref=blog.tryhackme.com">ohsint</a><br>
+		<a href="https://tryhackme.com/r/room/careersincyber?ref=blog.tryhackme.com">careers in cyber</a><br>
+		<a href="https://tryhackme.com/room/linuxfundamentalspart1?ref=blog.tryhackme.com">linux fundamentals</a><br>
+		<a href="https://tryhackme.com/room/ohsint?ref=blog.tryhackme.com">ohsint</a><br>
     </li>
 	<h2>
 		: Windows Related (with VM) :
