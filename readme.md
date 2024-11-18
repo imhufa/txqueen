@@ -12,25 +12,25 @@
 	<h2>
         : intro modules :
 	</h2>
-    <li>
-		<a href="https://tryhackme.com/r/room/careersincyber?ref=blog.tryhackme.com">careers in cyber</a><br>
-		<a href="https://tryhackme.com/room/linuxfundamentalspart1?ref=blog.tryhackme.com">linux fundamentals</a><br>
-		<a href="https://tryhackme.com/room/ohsint?ref=blog.tryhackme.com">ohsint</a><br>
-    </li>
+    <ul>
+		<li><a href="https://tryhackme.com/r/room/careersincyber?ref=blog.tryhackme.com">careers in cyber</a></li>
+		<li><a href="https://tryhackme.com/room/linuxfundamentalspart1?ref=blog.tryhackme.com">linux fundamentals</a></li>
+		<li><a href="https://tryhackme.com/room/ohsint?ref=blog.tryhackme.com">ohsint</a></li>
+    </ul>
 	<h2>
 		: Windows Related (with VM) :
 	</h2>
-	<li>
-    	- <a href="https://tryhackme.com/room/windows10privesc?ref=blog.tryhackme.com">windows privelege excalation</a><br>
-	   	- <a href="https://tryhackme.com/room/windowsfundamentals2x0x?ref=blog.tryhackme.com">windows fundamentals 2</a><br>
-	   	- <a href="https://tryhackme.com/room/windowsfundamentals3xzx?ref=blog.tryhackme.com">windows fundamentals 3</a><br>
-	   	- <a href="https://tryhackme.com/room/winadbasics?ref=blog.tryhackme.com">active directory basics</a><br>
-	   	- <a href="https://tryhackme.com/room/blue?ref=blog.tryhackme.com">blue</a><br>
-	   	- <a href="https://tryhackme.com/room/blueprint?ref=blog.tryhackme.com">blueprint</a><br>
-	   	- <a href="https://tryhackme.com/room/anthem?ref=blog.tryhackme.com">anthem</a><br>
-	   	- <a href="https://tryhackme.com/room/windowsforensics1?ref=blog.tryhackme.com">window forensic I</a><br>
-	   	- <a href="https://tryhackme.com/room/localpotato?ref=blog.tryhackme.com">localpotato</a><br>
-	</li>
+	<ul>
+    	<li><a href="https://tryhackme.com/room/windows10privesc?ref=blog.tryhackme.com">windows privelege excalation</a></li>
+	   	<li><a href="https://tryhackme.com/room/windowsfundamentals2x0x?ref=blog.tryhackme.com">windows fundamentals 2</a></li>
+	   	<li><a href="https://tryhackme.com/room/windowsfundamentals3xzx?ref=blog.tryhackme.com">windows fundamentals 3</a></li>
+	   	<li><a href="https://tryhackme.com/room/winadbasics?ref=blog.tryhackme.com">active directory basics</a></li>
+	   	<li><a href="https://tryhackme.com/room/blue?ref=blog.tryhackme.com">blue</a></li>
+	   	<li><a href="https://tryhackme.com/room/blueprint?ref=blog.tryhackme.com">blueprint</a></li>
+	   	<li><a href="https://tryhackme.com/room/anthem?ref=blog.tryhackme.com">anthem</a></li>
+	   	<li><a href="https://tryhackme.com/room/windowsforensics1?ref=blog.tryhackme.com">window forensic I</a></li>
+	   	<li><a href="https://tryhackme.com/room/localpotato?ref=blog.tryhackme.com">localpotato</a></li>
+	</ul>
     <h3>
         to download entire repository with git via powershell, install git and clone the repository.
     </h3>
