@@ -50,22 +50,22 @@
     </p>
     <br>
     <p><b>install</b></p>
-    ```
-    $ winget install --id Git.Git --source winget
-    ```
+    <pre>
+        winget install --id Git.Git --source winget
+    </pre>
     <br>
     <p><b>clone</b></p>
-    ```
+    <pre>
         $ git clone https://github.com/imhufa/txqueen.git
-    ```
+    </pre>
     <br>
     <p>
         to download single files, invoke either restmethod or webrequest in powershell.
     </p>
     <br>
-    ```
+    <pre>
         $ Invoke-RestMethod -Uri https://raw.githubusercontent.com/imhufa/txqueen/main/readme.md
-    ```
+    </pre>
     <br>
 </body>
 </html>
